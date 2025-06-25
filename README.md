@@ -1,1 +1,0 @@
-# GIAIC-AI-Python-Developer
